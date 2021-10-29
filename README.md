@@ -1,1 +1,2 @@
-# 2021ESWContest_Humanoid
+# 2021ESWContest_Humanoid_2009
+2021 임베디드 소프트웨어 경진대회 팀번호 2009 과제그만하고싶다 팀 코드 저장소
